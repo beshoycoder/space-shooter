@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b6314b3afdd27345bab7c1830d13775
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shoot_effect: {instanceID: 0}
+  - hit_effect: {fileID: 100002, guid: cafecd3fc3b761c45bb1553f35cf5c96, type: 3}
+  - firing_ship: {fileID: 3736799163720961025, guid: 5a707ec8b80dd5d4982c47d4f6913986, type: 3}
+  - gun: {instanceID: 0}
+  - enemy_damage: {fileID: 11400000, guid: e52357a98dd9b4f4ebf14a01330a223d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

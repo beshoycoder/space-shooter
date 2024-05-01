@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf80be7591977f41b44d10d0afc493a, type: 3}
+  m_Name: gun1
+  m_EditorClassIdentifier: 
+  gun: {fileID: 21300000, guid: f94df059a55ade342918fe7d0e8c2299, type: 3}
+  gun_icon: {fileID: 21300022, guid: 56d84991286850f428b4e7df0cca7380, type: 3}
+  bullet: {fileID: 100000, guid: 195fdd0ec0ce97248b109e8c83823bd5, type: 3}
+  damage: 10
+  explode: {fileID: 19800002, guid: cafecd3fc3b761c45bb1553f35cf5c96, type: 3}
+  sound_effect: {fileID: 8300000, guid: d44df615a0b2bd342ba06e55b406e22e, type: 3}
